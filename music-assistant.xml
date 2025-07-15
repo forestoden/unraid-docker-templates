@@ -5,8 +5,8 @@
   <Registry />
   <TemplateURL>https://raw.githubusercontent.com/alex3305/unraid-docker-templates/master/music-assistant.xml</TemplateURL>  
   <WebUI>http://[IP]:[PORT:8095]/</WebUI>
-  <Network>host</Network>
-  <Privileged>true</Privileged>
+  <Network>bridge</Network>
+  <Privileged>false</Privileged>
   <Support />
   <Project>https://dexidp.io/</Project>
   <Overview>Turn your Home Assistant instance into a jukebox, hassle free streaming of your favourite media to Home Assistant media players.</Overview>
