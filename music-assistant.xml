@@ -8,7 +8,7 @@
   <Network>host</Network>
   <Privileged>true</Privileged>
   <Support />
-  <Project>https://dexidp.io/</Project>
+  <Project>https://www.music-assistant.io/</Project>
   <Overview>Turn your Home Assistant instance into a jukebox, hassle free streaming of your favourite media to Home Assistant media players.</Overview>
   <Category>MediaApp:Music MediaServer:Music</Category>
   <Icon>https://raw.githubusercontent.com/alex3305/unraid-docker-templates/master/images/music-assistant.png</Icon>
